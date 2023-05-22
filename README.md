@@ -16,4 +16,4 @@ A full list of required libraries can be found in the [requirements.txt](require
 Contact
 -------
 Any additional comments/questions can be directed to:
-* **Conor Bacon** - conor.bacon@esc.cam.ac.uk
+* **Conor Bacon** - cbacon [ at ] ldeo.columbia.edu
